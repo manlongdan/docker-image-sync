@@ -6,23 +6,23 @@
         }
     },
     "images": {
-        # 备份elecv2p
+        ##备份elecv2p
         "docker.io/elecv2/elecv2p": "manlongdan/elecv2p"
-        # saobing面板
+        ##saobing面板
         "docker.io/saobing/saobing": "manlongdan/saobing"
-        # saobing-ARM面板
+        ##saobing-ARM面板
         "docker.io/grbhq/saobingpro": "manlongdan/saobingpro"
-        # freenom自动续期
+        ##freenom自动续期
         "docker.io/luolongfei/freenom": "manlongdan/freenom"
-        # 备份诺兰nark
+        ##备份诺兰nark
         "docker.io/nolanhzy/nark": "manlongdan/nark"
-        # 备份ARPT-Bot
+        ##备份ARPT-Bot
         "docker.io/benchao/arpt": "manlongdan/arpt"
-        # 备份nolan-pro
+        ##备份nolan-pro
         "docker.io/nolanhzy/pro": "manlongdan/pro"
-        # 青龙
+        ##青龙
         "docker.io/whyour/qinglong": "manlongdan/qinglong"
-        # alist
+        ##alist
         "docker.io/xhofe/alist": "manlongdan/alist"
     }
 }
