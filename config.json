@@ -1,0 +1,11 @@
+{
+    "auth": {
+        "registry.hub.docker.com": {
+            "username": "DOCKER_USERNAME",
+            "password": "DOCKERHUB_PASSWORD"
+        }
+    },
+    "images": {
+        "docker.io/elecv2/elecv2p": "manlongdan/elecv2p"
+    }
+}
