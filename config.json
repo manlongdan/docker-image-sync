@@ -1,7 +1,7 @@
 {
     "auth": {
         "registry.hub.docker.com": {
-            "username": "DOCKER_USERNAME",
+            "username": "DOCKERHUB_USERNAME",
             "password": "DOCKERHUB_PASSWORD"
         }
     },
