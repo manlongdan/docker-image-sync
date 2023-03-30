@@ -6,7 +6,7 @@
         }
     },
     "images": {
-        "docker.io/elecv2/elecv2p": "manlongdan/elecv2p"
+        "docker.io/elecv2/elecv2p": "manlongdan/elecv2p",
         "docker.io/saobing/saobing": "manlongdan/saobing"
         
     }
