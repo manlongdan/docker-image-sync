@@ -14,7 +14,10 @@
         "docker.io/benchao/arpt": "manlongdan/arpt",
         "docker.io/nolanhzy/pro": "manlongdan/pro",
         "docker.io/whyour/qinglong": "manlongdan/qinglong",
-        "docker.io/xhofe/alist": "manlongdan/alist"
+        "docker.io/xhofe/alist": "manlongdan/alist",
+        "docker.io/superng6/qbittorrentee": "manlongdan/qbittorrentee",
+        "docker.io/p3terx/aria2-pro": "manlongdan/aria2-pro",
+        "docker.io/lisaac/luci": "manlongdan/luci"
         
     }
 }
