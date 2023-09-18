@@ -21,7 +21,7 @@
         "docker.io/myleo1/oracle-docker-active": "manlongdan/oracle-docker-active",
         "docker.io/snowdreamtech/frps": "manlongdan/frps",
         "docker.io/lovechen/embyserver": "manlongdan/embyserver",
-        "docker.io/shmilyin/nas-tools": "manlongdan/nas-tools"
+        "docker.io/hsuyelin/nas-tools": "manlongdan/nas-tools-pro"
         
     }
 }
