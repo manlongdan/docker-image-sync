@@ -1,41 +1,27 @@
 {
     "auth": {
-        "docker.io": {
+        "registry.hub.docker.com": {
             "username": "manlongdan",
             "password": "DOCKERHUB_PASSWORD"
         }
     },
     "images": {
         "docker.io/elecv2/elecv2p": "manlongdan/elecv2p",
-        
         "docker.io/saobing/saobing": "manlongdan/saobing",
-        
         "docker.io/grbhq/saobingpro": "manlongdan/saobingpro",
-        
         "docker.io/luolongfei/freenom": "manlongdan/freenom",
-        
         "docker.io/nolanhzy/nark": "manlongdan/nark",
-        
         "docker.io/benchao/arpt": "manlongdan/arpt",
-        
         "docker.io/nolanhzy/pro": "manlongdan/pro",
-        
         "docker.io/whyour/qinglong": "manlongdan/qinglong",
-        
         "docker.io/xhofe/alist": "manlongdan/alist",
-        
         "docker.io/superng6/qbittorrentee": "manlongdan/qbittorrentee",
-        
         "docker.io/p3terx/aria2-pro": "manlongdan/aria2-pro",
-        
         "docker.io/lisaac/luci": "manlongdan/luci",
-        
         "docker.io/myleo1/oracle-docker-active": "manlongdan/oracle-docker-active",
-        
         "docker.io/snowdreamtech/frps": "manlongdan/frps",
+        "docker.io/lovechen/embyserver": "manlongdan/embyserver",
+        "docker.io/hsuyelin/nas-tools": "manlongdan/nas-tools-pro"
         
-        "docker.io/hsuyelin/nas-tools": "manlongdan/nas-tools-pro",
-        
-        "docker.io/lovechen/embyserver": "manlongdan/embyserver"
     }
 }
