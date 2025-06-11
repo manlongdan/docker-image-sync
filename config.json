@@ -19,6 +19,7 @@
         "docker.io/lisaac/luci": "manlongdan/luci",
         "docker.io/myleo1/oracle-docker-active": "manlongdan/oracle-docker-active",
         "docker.io/snowdreamtech/frps": "manlongdan/frps",
+        "docker.io/xhofe/alist:3.45": "manlongdan/alist:3.45",
         "docker.io/lovechen/embyserver": "manlongdan/embyserver"
 
         
